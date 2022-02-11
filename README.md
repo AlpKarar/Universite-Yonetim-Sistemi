@@ -1,5 +1,5 @@
 # Universite-Yonetim-Sistemi
-Patika Dev. | Object Oriented Programming | Ödev - Üniversite Yönetim Sistemi
+### Patika Dev. | Object Oriented Programming | Ödev - Üniversite Yönetim Sistemi
 
 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
